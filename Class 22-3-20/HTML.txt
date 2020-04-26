@@ -1,0 +1,18 @@
+<!Doctype html>						// For Representation of HTML5
+<html>
+
+	<head>	 					// Extra Information 
+
+		<title>My very 1st web</title>
+
+	</head>
+
+
+	<body> 						// Part of Website 
+
+		<h1>Hello World</h1>			// Heading
+		<p>Let's learn HTML from today</p>
+
+	</body>
+
+</html>
